@@ -17,5 +17,5 @@
 
 
 
-## How to reach me
+## How to contact me
 https://www.linkedin.com/in/eduardo-lemos-b83881243/
