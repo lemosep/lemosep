@@ -18,4 +18,4 @@
 
 
 ## How to contact me
-https://www.linkedin.com/in/eduardo-lemos-b83881243/
+www.linkedin.com/in/eduardo-lemos-paschoalini
