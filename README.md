@@ -4,11 +4,11 @@
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+  <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/git/git-plain.svg">
 </div>
 
 ## I'm looking foward to learn
 <div style="display: inline_block"><br>
-  <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/git/git-plain.svg">
   <img align="center" alt="Rust" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/rust/rust-plain.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/react/react-original.svg">
   <img align="center" alt="TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/typescript/typescript-plain.svg">
