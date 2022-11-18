@@ -18,4 +18,5 @@
 
 
 ## How to contact me
+[Linkedin](https://www.linkedin.com/in/eduardo-lemos-b83881243/)
 www.linkedin.com/in/eduardo-lemos-paschoalini
