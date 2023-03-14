@@ -14,7 +14,13 @@
   <img align="center" alt="TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/typescript/typescript-plain.svg">
 </div>
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=vloax&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=vloax&theme=gruvbox&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vloax&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+  
+  
 
 ## How to contact me
 [Linkedin](https://www.linkedin.com/in/eduardo-lemos-b83881243/)
