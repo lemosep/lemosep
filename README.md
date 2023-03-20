@@ -14,11 +14,5 @@
   <img align="center" alt="TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/typescript/typescript-plain.svg">
 </div>
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=EduLemos0&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-  
-  
-
 ## How to contact me
 [Linkedin](https://www.linkedin.com/in/eduardo-lemos-b83881243/)
