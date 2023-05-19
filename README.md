@@ -10,6 +10,7 @@
 ## I'm looking foward to learn
 <div style="display: inline_block"><br>
   <img align="center" alt="Rust" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/rust/rust-plain.svg">
+  <img align="center" alt="Haskell" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/haskell/haskell-original.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/react/react-original.svg">
 </div>
 
