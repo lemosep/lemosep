@@ -9,7 +9,7 @@
 
 ## Learning
 <div style="display: inline_block"><br>
-  <img align="center" alt="cpp" height="40"width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png"
+  <img align="center" alt="rs" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/rust/rust-plain.svg">
 </div>
 
 ## How to contact me
