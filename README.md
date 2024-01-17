@@ -11,6 +11,3 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="rs" height="40" width="40" src="http://rust-lang.org/logos/rust-logo-64x64.png">
 </div>
-
-## How to contact me
-[Linkedin](https://www.linkedin.com/in/eduardo-lemos-b83881243/)
